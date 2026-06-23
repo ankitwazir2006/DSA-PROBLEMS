@@ -18,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2287-rearrange-characters-to-make-target-string) |
+## Array
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0084-largest-rectangle-in-histogram) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
