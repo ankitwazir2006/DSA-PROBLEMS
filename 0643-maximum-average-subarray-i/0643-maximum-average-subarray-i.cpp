@@ -9,8 +9,8 @@ public:
          }
          ans=(double)sum/k;
          for(int i = k ; i <nums.size();i++){
-            sum+=nums[i];
-            sum-=nums[i-k];
+            sum+=nums[i]-nums[i-k];
+          
             ans=max(ans,(double)sum/k);
          }
          return ans;
