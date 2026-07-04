@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Counting
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
