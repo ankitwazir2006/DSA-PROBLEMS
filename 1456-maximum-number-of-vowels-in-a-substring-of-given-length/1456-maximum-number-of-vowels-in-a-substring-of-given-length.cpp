@@ -22,6 +22,9 @@ public:
                 count++;
             }
             ans=max(ans,count);
+            if(ans==k){
+                return ans;
+            }
         }
         return ans;
                          
