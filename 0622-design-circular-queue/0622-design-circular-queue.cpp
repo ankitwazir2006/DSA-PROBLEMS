@@ -64,13 +64,9 @@ public:
     }
     
     bool isEmpty() {
-        if(front==-1){
+        return front==-1;
            
-            return true;
-        }
-        else{
-            return false;
-        }
+       
     }
     
     bool isFull() {
