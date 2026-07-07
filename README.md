@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0239-sliding-window-maximum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0540-single-element-in-a-sorted-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0134-gas-station) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
