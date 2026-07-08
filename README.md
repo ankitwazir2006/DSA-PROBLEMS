@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0232-implement-queue-using-stacks) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1441-build-an-array-with-stack-operations) |
 ## Monotonic Stack
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0622-design-circular-queue) |
 ## Greedy
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0622-design-circular-queue) |
 ## Sliding Window
