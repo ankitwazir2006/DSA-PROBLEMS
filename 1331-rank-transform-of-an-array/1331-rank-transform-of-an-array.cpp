@@ -6,9 +6,9 @@ public:
         sort(ranks.begin(),ranks.end());
        unordered_map<int , int> mp;
          int r=1;
-        for(int i = 0 ; i<arr.size(); i++){
-          if(mp.find(ranks[i])==mp.end()){
-             mp[ranks[i]]=r++;
+        for(int x:ranks){
+          if(mp.find(x)==mp.end()){
+             mp[x]=r++;
           }
         }
         for(int i = 0 ; i<arr.size();i++){
