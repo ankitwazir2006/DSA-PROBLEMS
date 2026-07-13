@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0239-sliding-window-maximum) |
+| [0496-next-greater-element-i](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0643-maximum-average-subarray-i) |
@@ -55,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1441-build-an-array-with-stack-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0496-next-greater-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
