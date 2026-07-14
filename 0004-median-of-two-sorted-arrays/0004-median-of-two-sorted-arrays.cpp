@@ -10,18 +10,18 @@ public:
 
         }
         sort(ans.begin(),ans.end());
-         int median= ans.size()/2;
-          double ans1=0;
+        int median= ans.size()/2;
+        double ans1=0;
          if((ans.size())%2==0){
            
           ans1= (ans[median]+ans[median-1])/2.0;
-
+                 return ans1;
          }
-         else{
+    
         
-            ans1=(ans[median]);
-         }
-         return ans1;
+        ans1=(ans[median]);
+    
+        return ans1;
     }
  
 
