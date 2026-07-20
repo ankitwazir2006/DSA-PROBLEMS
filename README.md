@@ -170,4 +170,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0622-design-circular-queue) |
+## Tree
+|  |
+| ------- |
+| [0872-leaf-similar-trees](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0872-leaf-similar-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0872-leaf-similar-trees](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0872-leaf-similar-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0872-leaf-similar-trees](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0872-leaf-similar-trees) |
 <!---LeetCode Topics End-->
