@@ -15,12 +15,11 @@ public:
      if(root==NULL){
         return 0 ;
      }
-        int left=minDepth (root->left);
-        int right=minDepth (root->right);
-            if(root->left==NULL|| root->right==NULL){
-            return left+right+1;
+       
+    if(root->left==NULL|| root->right==NULL){
+        return minDepth (root->left)+minDepth (root->right)+1;
         }
-        return min(left,right)+1;
+     return min(minDepth (root->left),minDepth (root->right))+1;
         
     }
 };
