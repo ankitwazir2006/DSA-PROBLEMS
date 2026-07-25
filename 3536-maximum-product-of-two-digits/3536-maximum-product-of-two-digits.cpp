@@ -18,9 +18,7 @@ public:
                else if( b<numbers[i]){
                 b=numbers[i];
                }
-               else{
-                continue;
-               }
+             
         }
         return a*b;
 
