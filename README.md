@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0622-design-circular-queue) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0643-maximum-average-subarray-i) |
 | [1331-rank-transform-of-an-array](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1441-build-an-array-with-stack-operations) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0231-power-of-two) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3536-maximum-product-of-two-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3536-maximum-product-of-two-digits](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3536-maximum-product-of-two-digits) |
