@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0011-container-with-most-water) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0622-design-circular-queue](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0622-design-circular-queue) |
 ## Tree
 |  |
