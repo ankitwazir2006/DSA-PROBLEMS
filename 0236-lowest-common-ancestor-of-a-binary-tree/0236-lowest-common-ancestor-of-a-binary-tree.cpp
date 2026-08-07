@@ -23,12 +23,12 @@ public:
           if(leftans!=NULL&&rightans!=NULL){
             return root;
           }
-          else if(leftans!=NULL &&rightans==NULL){
+          else if(rightans==NULL){
             return leftans;
           }
-          else if(rightans!=NULL &&leftans==NULL){
+          else if(leftans==NULL){
             return rightans;
-          }
+          } 
           else{
             return NULL;
           }
