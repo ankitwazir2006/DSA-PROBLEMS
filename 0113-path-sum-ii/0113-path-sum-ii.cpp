@@ -24,10 +24,12 @@ class Solution {
             if(sum==targetSum){
                 result.push_back(temp);
             }
+            temp.pop_back();
             return ;
         }
         fill(root->left,sum,temp,targetSum);
         fill(root->right,sum,temp,targetSum);
+        temp.pop_back();
     }
     vector<vector<int>>result;
 public:
