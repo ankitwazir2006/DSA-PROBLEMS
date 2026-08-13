@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0242-valid-anagram) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1189-maximum-number-of-balloons](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
