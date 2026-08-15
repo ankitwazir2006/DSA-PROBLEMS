@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0622-design-circular-queue) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0704-binary-search) |
 ## Design
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -307,4 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0337-house-robber-iii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
