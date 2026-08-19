@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1441-build-an-array-with-stack-operations) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3028-ant-on-the-boundary](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3028-ant-on-the-boundary) |
 ## Divide and Conquer
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1512-number-of-good-pairs) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3536-maximum-product-of-two-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0287-find-the-duplicate-number) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Recursion
 |  |
 | ------- |
