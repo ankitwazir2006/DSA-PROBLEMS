@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1512-number-of-good-pairs) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
