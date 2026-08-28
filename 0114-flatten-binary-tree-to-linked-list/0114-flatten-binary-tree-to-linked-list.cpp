@@ -16,12 +16,15 @@ public:
         while(curr!=NULL){
             if(curr->left){
                 TreeNode*prev=curr->left;
-               
+               //find right most node node of left subtree 
                 while(prev->right!=NULL){
                     prev=prev->right;
                 }
+                //connect it to right side of the root
                 prev->right=curr->right;
+                //move leftsubtree to right
                 curr->right=curr->left;
+                //remove left pointers 
                 curr->left=NULL;
 
             }
