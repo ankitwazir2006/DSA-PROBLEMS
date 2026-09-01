@@ -10,25 +10,25 @@
  * };
  */
 class Solution {
-    void inorder(TreeNode*root,vector<int>&ans){
+    bool isbst(TreeNode*root,long long  min , long long max){
         if(root==NULL){
-            return ;
+            return true;
         }
-
-        inorder(root->left,ans);
-        ans.push_back(root->val);
-        inorder(root->right,ans);
+        if(root->val>min && root ->val<max){
+            bool left= isbst(root->left, min , root->val);
+            bool right=isbst(root->right, root->val,max);
+            return left&&right;
+        }
+        else{
+            return false;
+        }
     }
 public:
     bool isValidBST(TreeNode* root) {
-        vector<int>ans;
-        inorder(root,ans);
-        bool flag=true;
-        for(int i = 0;i<ans.size()-1;i++){
-            if(ans[i]>=ans[i+1]){
-                flag=false;
-            }
-        }
-        return flag;
+         long long min = LLONG_MIN;
+        long long max = LLONG_MAX;
+       bool ans= isbst(root,min,max);
+       return ans;
+
     }
 };
