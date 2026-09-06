@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1189-maximum-number-of-balloons](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0337-house-robber-iii](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0337-house-robber-iii) |
 ## Matrix
