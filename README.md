@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0496-next-greater-element-i) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
 |  |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -340,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0226-invert-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -380,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0783-minimum-distance-between-bst-nodes) |
