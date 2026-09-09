@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
