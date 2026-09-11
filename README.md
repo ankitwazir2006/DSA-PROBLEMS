@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1512-number-of-good-pairs) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2094-finding-3-digit-even-numbers) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1512-number-of-good-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2094-finding-3-digit-even-numbers) |
 | [3028-ant-on-the-boundary](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3028-ant-on-the-boundary) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2094-finding-3-digit-even-numbers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0231-power-of-two) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
 |  |
@@ -401,5 +405,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
