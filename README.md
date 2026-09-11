@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3028-ant-on-the-boundary](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3028-ant-on-the-boundary) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0231-power-of-two) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -395,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
