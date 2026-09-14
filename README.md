@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0242-valid-anagram) |
+| [0551-student-attendance-record-i](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1189-maximum-number-of-balloons](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
