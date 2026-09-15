@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0191-number-of-1-bits) |
+| [1382-balance-a-binary-search-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1382-balance-a-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0134-gas-station) |
+| [1382-balance-a-binary-search-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1382-balance-a-binary-search-tree) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -411,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1382-balance-a-binary-search-tree](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1382-balance-a-binary-search-tree) |
 ## Enumeration
 |  |
 | ------- |
