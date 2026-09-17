@@ -18,16 +18,36 @@ class Solution {
         inorder1.push_back(root->val);
         inorder(root->right,inorder1);
     }
+    vector<int>mergearray(vector<int>&arr1,vector<int>&arr2){
+        vector<int>ans;
+        int j=0,i=0;
+        while(i<arr1.size()&&j<arr2.size()){
+            if(arr1[i]<=arr2[j]){
+                ans.push_back(arr1[i++]);
+            }
+            else{
+                ans.push_back(arr2[j++]);
+            }
+        }
+        while(i<arr1.size()){
+            ans.push_back(arr1[i++]);
+        }
+        while(j<arr2.size()){
+            ans.push_back(arr2[j++]);
+        }
+        return ans;
+    }
+       
 public:
     vector<int> getAllElements(TreeNode* root1, TreeNode* root2) {
         //STEP1:  store inorder of two bst
         vector<int>inorder1;
+        vector<int>inorder2;
         
         inorder(root1,inorder1);
-        inorder(root2,inorder1);
-        
-        
-        sort(inorder1.begin(),inorder1.end());
-        return inorder1;
+        inorder(root2,inorder2);
+        vector<int> meregedarray=mergearray(inorder1,inorder2);
+
+        return meregedarray;
     }
 };
