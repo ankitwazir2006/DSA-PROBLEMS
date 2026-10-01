@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0115-distinct-subsequences) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0094-binary-tree-inorder-traversal) |
@@ -492,5 +494,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
