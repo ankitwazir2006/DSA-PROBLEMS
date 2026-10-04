@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0231-power-of-two) |
+| [0507-perfect-number](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1512-number-of-good-pairs) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
