@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1512-number-of-good-pairs) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0287-find-the-duplicate-number) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -505,4 +509,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
