@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0704-binary-search) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1046-last-stone-weight](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1441-build-an-array-with-stack-operations) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0239-sliding-window-maximum) |
+| [1046-last-stone-weight](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
 |  |
 | ------- |
