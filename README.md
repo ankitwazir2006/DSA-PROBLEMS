@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2094-finding-3-digit-even-numbers) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2733-neither-minimum-nor-maximum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3028-ant-on-the-boundary](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3028-ant-on-the-boundary) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2094-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3483-unique-3-digit-even-numbers) |
 ## String Matching
 |  |
