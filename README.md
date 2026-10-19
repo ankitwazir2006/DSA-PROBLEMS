@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1512-number-of-good-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2094-finding-3-digit-even-numbers) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Design
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2094-finding-3-digit-even-numbers) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/2733-neither-minimum-nor-maximum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ankitwazir2006/DSA-PROBLEMS/tree/master/3517-smallest-palindromic-rearrangement-i) |
