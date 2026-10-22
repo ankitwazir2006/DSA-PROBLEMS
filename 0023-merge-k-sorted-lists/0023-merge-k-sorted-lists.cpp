@@ -17,16 +17,20 @@
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
+        //creating min heap
         priority_queue<ListNode*,vector<ListNode*>,compare> pq;
+        //initializing the head and tail pointer 
         ListNode*head=NULL;
         ListNode*tail=NULL;
+        //inserting the head of all the linked list in heap
         for(int i =0 ; i<lists.size();i++){
            if (lists[i] != NULL) {
                  pq.push(lists[i]);
                                 }  
         }
+        //connecting all the smallest pointer in heap to make a sorted merged linked list 
         while(!pq.empty()){
-            ListNode*temp=pq.top();
+            ListNode*temp=pq.top();//smallest  node of k list 
             pq.pop();
 
             if(head==NULL){
@@ -38,7 +42,7 @@ public:
                 tail=tail->next;
             }
             if(temp->next!=NULL){
-                pq.push(temp->next);
+                pq.push(temp->next);//pushing the value of the next node in  min heap
             }
            
         }
